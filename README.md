@@ -1,4 +1,4 @@
-# FLIPKART-PRICE-SCRAPPING
+# FLIPKART-PRICE-SCRAPING
 ## Flipkart Product and Price Scrapping
 
 
