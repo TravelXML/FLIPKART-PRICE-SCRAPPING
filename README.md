@@ -6,5 +6,7 @@
 
 It's crawl till page no. 42 after that product is not available for this category, then quit from crawling and writing all data into CSV.
 
+View all captured data in `reports.csv`
+
 
 ### Happy Coding!
